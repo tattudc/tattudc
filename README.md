@@ -20,6 +20,11 @@
       </div>
    
   </div>
+  
+
+<details>
+  <summary><b>&nbsp;&nbsp;Minhas Habilidades:&nbsp;</b></summary>
+  <br/>
 <div style="display: inline_block" align='center'><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
 <img align="center" height="30" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -36,12 +41,20 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
  
 </div>
+</details>
 
-<div align="center">
+<details>
+  <summary><b>&nbsp;&nbsp;Minhas Certificações:&nbsp;</b></summary>
+  <br/>
+  
+  <div align="center">
     <img align="center" height="50" width="50" src="Associate.png">
       <img align="center" height="50" width="50" src="AiAssociate.png">
   <img align="center" height="50" width="50" src="Scrum.png">
 </div>
+  
+</details>
+
   
   ##
  
