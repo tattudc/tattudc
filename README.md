@@ -36,6 +36,12 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
  
 </div>
+
+<div align="center">
+    <img align="center" height="50" width="50" src="Associate.png">
+      <img align="center" height="50" width="50" src="AiAssociate.png">
+  <img align="center" height="50" width="50" src="Scrum.png">
+</div>
   
   ##
  
