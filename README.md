@@ -22,8 +22,6 @@
       </div>
    
   </div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tattudc`)](https://github.com/tattudc/github-readme-stats)
 
 <details>
   <summary><b>&nbsp;&nbsp;Minhas Habilidades:&nbsp;</b></summary>
