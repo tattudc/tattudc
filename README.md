@@ -21,7 +21,6 @@
     </span>
       </div>
    
-  </div>
 
 <details>
   <summary><b>&nbsp;&nbsp;Minhas Habilidades:&nbsp;</b></summary>
